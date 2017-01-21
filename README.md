@@ -1,10 +1,14 @@
-# Ienumerable Implementation for User Class
+# Ienumerable Implementation for User Classes
 # C#6.0  .NET FRAMEWORK 4.6
 ----
+
 This project show how You can implement Ienumerable interface for Your own classes.
+
 ----
 ### Purpose
+
 The goal of this project show how You can obtain foreach loop for Your class object.
+
 ----
 ### ImplementIenumerable implementation
 ```c#
